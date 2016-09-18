@@ -1,6 +1,6 @@
-Effective learning: Twenty rules of formulating knowledge
+## Effective learning: Twenty rules of formulating knowledge
 
-Dr Piotr Wozniak, February, 1999
+_Dr Piotr Wozniak, February, 1999_
 
 This article will help you overcome one of the greatest difficulties you will face when trying to accelerate learning: formulating knowledge
 
@@ -11,11 +11,11 @@ There is an underlying assumption that you will proceed with learning using spac
 
 The 20 rules of formulating knowledge in learning
 
----
+===
 
-有效的学习：组织知识的20条原则
+## 有效的学习：组织知识的20条原则
 
-Dr Piotr Wozniak, 1999年2月
+_Dr Piotr Wozniak, 1999年2月_
 
 当您正尝试提高学习效率（加速学习）时，本文将用于帮助您克服学习中所面对的最大困难之一：组织知识
 
