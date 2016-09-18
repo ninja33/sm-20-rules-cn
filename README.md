@@ -1,0 +1,1 @@
+# supermemo-20-rules-chinese-translation
