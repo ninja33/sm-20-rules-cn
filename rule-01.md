@@ -8,7 +8,7 @@ The German history book example is an extreme. However, the materials you learn 
 
 ===
 
-## 原则一：如果你不理解，就不要学
+## 原则一：不理解，不要学
 
 试图去学习一些你自己不理解的材料是完全无意义的。尽管如此，依然有惊人比例的学生去犯这种不理解材料就盲目学习的错误。很多时候他们没有选择，教科书和讲义的质量相当糟糕却又不得不面对临近的考试。
 
