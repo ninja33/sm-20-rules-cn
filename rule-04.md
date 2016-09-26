@@ -24,37 +24,37 @@ Here is a striking example:
 
 - A: on the border between Israel and Jordan
 
-> Q: What is the lowest point on the Earth's surface?
+- Q: What is the lowest point on the Earth's surface?
 
-> A: The Dead Sea shoreline
+- A: The Dead Sea shoreline
 
 - Q: What is the average level on which the Dead Sea is located?
 
 - A: 400 meters (below sea level)
 
-Q: How long is the Dead Sea?
+- Q: How long is the Dead Sea?
 
-A: 70 km
+- A: 70 km
 
-Q: How much saltier is the Dead Sea than the oceans?
+- Q: How much saltier is the Dead Sea than the oceans?
 
-A: 7 times
+- A: 7 times
 
-Q: What is the volume content of salt in the Dead Sea?
+- Q: What is the volume content of salt in the Dead Sea?
 
-A: 30%
+- A: 30%
 
-Q: Why can the Dead Sea keep swimmers afloat?
+- Q: Why can the Dead Sea keep swimmers afloat?
 
-A: due to high salt content
+- A: due to high salt content
 
-Q: Why is the Dead Sea called Dead?
+- Q: Why is the Dead Sea called Dead?
 
-A: because only simple organisms can live in it
+- A: because only simple organisms can live in it
 
-Q: Why only simple organisms can live in the Dead Sea?
+- Q: Why only simple organisms can live in the Dead Sea?
 
-A: because of high salt content
+- A: because of high salt content
 
 You might want to experiment and try to learn two subjects using the two above approaches and see for yourself what advantage is brought by minimum information principle. This is particularly visible in the long perspective, i.e. the longer the time you need to remember knowledge, the more you benefit from simplifying your items!
 
