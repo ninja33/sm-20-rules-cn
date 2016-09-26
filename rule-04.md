@@ -12,25 +12,25 @@ I assume you will make repetitions of the learned material using optimum inter-r
 
 Here is a striking example:
 
-Ill-formulated knowledge - Complex and wordy
+####Ill-formulated knowledge - Complex and wordy
 
-Q: What are the characteristics of the Dead Sea?
+- Q: What are the characteristics of the Dead Sea?
 
-A: Salt lake located on the border between Israel and Jordan. Its shoreline is the lowest point on the Earth's surface, averaging 396 m below sea level. It is 74 km long. It is seven times as salty (30% by volume) as the ocean. Its density keeps swimmers afloat. Only simple organisms can live in its saline waters
+- A: Salt lake located on the border between Israel and Jordan. Its shoreline is the lowest point on the Earth's surface, averaging 396 m below sea level. It is 74 km long. It is seven times as salty (30% by volume) as the ocean. Its density keeps swimmers afloat. Only simple organisms can live in its saline waters
 
-Well-formulated knowledge - Simple and specific
+####Well-formulated knowledge - Simple and specific
 
-Q: Where is the Dead Sea located?
+- Q: Where is the Dead Sea located?
 
-A: on the border between Israel and Jordan
+- A: on the border between Israel and Jordan
 
-Q: What is the lowest point on the Earth's surface?
+> Q: What is the lowest point on the Earth's surface?
 
-A: The Dead Sea shoreline
+> A: The Dead Sea shoreline
 
-Q: What is the average level on which the Dead Sea is located?
+- Q: What is the average level on which the Dead Sea is located?
 
-A: 400 meters (below sea level)
+- A: 400 meters (below sea level)
 
 Q: How long is the Dead Sea?
 
@@ -80,29 +80,29 @@ You will also lose the ability to fluently recite the description of the Dead Se
 
 下面是一个明显的例子：
 
-| 组织很差的知识点 - 复杂而冗长 | 
-|---| 
-| 问：死海的特点是什么？| 
-| 答：死海是位于以色列和约旦边界的盐湖。它的海岸线是地球表面的最低点，平均海拔-396米，长74公里。含盐量是海洋的七倍(30%含量)。其密度可以使游泳者保持飘浮。只有简单的微生物可以生活其中。| 
+####组织很差的知识点 - 复杂而冗长
 
-| 组织良好的知识点 - 简单而明确 | 
-|---| 
-| 问：死海位于哪里？| 
-| 答：以色列和约旦边界| 
-| 问：死海的平均海拔是多少？| 
-| 答：约海拔-400米| 
-| 问：死海的海岸线长度是多少？| 
-| 答：约70公里| 
-| 问：死海的含盐量相比是海洋的多少倍？| 
-| 答：7倍| 
-| 问：死海的含盐量是多少？| 
-| 答：30%| 
-| 问：为什么死海可以使游泳者飘浮？| 
-| 答：因为高含盐量| 
-| 问：为什么被称之为“死”海？| 
-| 答：因为仅有简单微生物可以存活其中。| 
-| 问：为什么仅有简单微生物可以在死海中存活？| 
-| 答：因为高含盐量| 
+- 问：死海的特点是什么？| 
+- 答：死海是位于以色列和约旦边界的盐湖。它的海岸线是地球表面的最低点，平均海拔-396米，长74公里。含盐量是海洋的七倍(30%含量)。其密度可以使游泳者保持飘浮。只有简单的微生物可以生活其中。
+
+####组织良好的知识点 - 简单而明确 
+
+- 问：死海位于哪里？
+- 答：以色列和约旦边界| 
+- 问：死海的平均海拔是多少？
+- 答：约海拔-400米
+- 问：死海的海岸线长度是多少？
+- 答：约70公里
+- 问：死海的含盐量相比是海洋的多少倍？
+- 答：7倍
+- 问：死海的含盐量是多少？
+- 答：30%
+- 问：为什么死海可以使游泳者飘浮？
+- 答：因为高含盐量
+- 问：为什么被称之为“死”海？
+- 答：因为仅有简单微生物可以存活其中。
+- 问：为什么仅有简单微生物可以在死海中存活？
+- 答：因为高含盐量
 
 你可能想试验下并尝试用上述两种方法来学习两个主题，然后看看最小信息原则所能带来的好处。从长远来讲好处尤其明显，例如，你记忆知识所需时间越多，你从简化材料所获收益也就越多。
 
