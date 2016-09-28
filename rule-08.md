@@ -15,3 +15,5 @@ Exemplary graphic deletion:
 下面是一个图像填空的例子：
 
 ![element](/asset/element.jpg)
+
+红色方块所指向的区域名称是什么？
