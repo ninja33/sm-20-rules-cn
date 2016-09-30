@@ -56,6 +56,8 @@ Learning poems is an example of learning enumerations (all words and sentences h
 - Q: who spends himself in a worthy cause ... (The credit belongs) 
 - A: who in the end knows the triumph of high achievement (so that his place shall never be), etc. etc.
 
+Does it all sound artificial? It does! But you will never know how effective this approach is until you try it by yourself!
+
 ===
 
 ##原则十：避免使用枚举
